@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+}
+p {
+    padding: 5% 20%;
+    text-indent: 50px;
+    text-align: justify;
+    font-size: large;
+}
+.p1 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p2 {
+    color: greenyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p3 {
+    color: indigo;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    padding: 2% 30% 4%;
+}
+#mainHeading {
+    color: red;
+    padding: 2% 20% ;
+    text-shadow: 2px 2px;
+    font-size: 60px;
+}
+.funParagraph {
+    color: green;
+}
+.copy {
+    font-size: large;
+    color: violet;
+}
